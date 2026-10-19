@@ -1,11 +1,12 @@
 ## Salve, tudo bem?
 
-- Estudando algums linguagens como: html, css, javaScript e Pyhton
+- Estudando algums linguagens como: html, css, javaScript, C++ e Pyhton
 - Pretendo cada vez mais me aprimorar 
 ## Linguagens
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail)" />
 
 
 ### 📈 GitHub Stats
