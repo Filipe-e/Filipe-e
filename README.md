@@ -8,7 +8,6 @@
 <img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCG_mRH9YJdRsk7bTGHVOP1H7pPlFgWljtiFUYHCOOQ&s=10" />
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCG_mRH9YJdRsk7bTGHVOP1H7pPlFgWljtiFUYHCOOQ&s=10
 ### 📈 GitHub Stats
 
 <p>
