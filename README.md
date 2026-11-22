@@ -14,16 +14,16 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     width="400"
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Filipe-e&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      width="400"
+      height="180" 
+      width="370"
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-e&theme=dark&layout=compact&custom_title=Technologies" 
   />
 
