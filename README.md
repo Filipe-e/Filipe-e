@@ -6,7 +6,7 @@
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCG_mRH9YJdRsk7bTGHVOP1H7pPlFgWljtiFUYHCOOQ&s=10" />
+<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCG_mRH9YJdRsk7bTGHVOP1H7pPlFgWljtiFUYHCOOQ&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6FJndSnKAvlByrns5CEa5Mqq8bqqYrXdLYFu6N3pvw&s=10)" />
 
 ### 📈 GitHub Stats
 
