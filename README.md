@@ -27,7 +27,7 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Statistics
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Filipe-e&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=d0d0d0&icon_color=ffffff&border_color=333333" alt="GitHub Stats" />
