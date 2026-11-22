@@ -6,7 +6,7 @@
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6FJndSnKAvlByrns5CEa5Mqq8bqqYrXdLYFu6N3pvw&s=1" />
+<img align="left" alt="C++" title="C++" width="40px" src="https://github.com/user-attachments/assets/84e4633b-27f2-428e-bbad-ea370bd73a69" />
 
 ### 📈 GitHub Stats
 
